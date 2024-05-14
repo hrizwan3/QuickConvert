@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Currency Companion</title>
+    <link>https://hrizwan3.github.io/currency-companion/series/</link>
+    <description>Recent content in Series on Currency Companion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Currency Companion</copyright>
+    <atom:link href="https://hrizwan3.github.io/currency-companion/series/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
