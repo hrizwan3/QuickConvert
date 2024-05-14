@@ -1,7 +1,7 @@
-baseURL = 'https://hrizwan3.github.io/currency-companion/'
-title = "Currency Companion"
-author = "Currency Companion"
-copyright = "Currency Companion"
+baseURL = 'https://hrizwan3.github.io/QuickConvert/'
+title = "QuickConvert"
+author = "QuickConvert"
+copyright = "QuickConvert"
 
 timeZone = 'Europe/London'
 
