@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /404.html
-Sitemap: https://hrizwan3.github.io/currency-companion/sitemap.xml
+Disallow: /

@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Filipe Carneiro on Currency Companion</title>
-    <link>https://hrizwan3.github.io/currency-companion/authors/filipe-carneiro/</link>
-    <description>Recent content in Filipe Carneiro on Currency Companion</description>
+    <title>Filipe Carneiro on QuickConvert</title>
+    <link>http://localhost:1313/currency-companion/authors/filipe-carneiro/</link>
+    <description>Recent content in Filipe Carneiro on QuickConvert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Currency Companion</copyright>
-    <atom:link href="https://hrizwan3.github.io/currency-companion/authors/filipe-carneiro/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>QuickConvert</copyright>
+    <atom:link href="http://localhost:1313/currency-companion/authors/filipe-carneiro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Bootstrap Theme alpha</title>
-      <link>https://hrizwan3.github.io/currency-companion/post/hugo-bootstrap-theme/</link>
+      <link>http://localhost:1313/currency-companion/post/hugo-bootstrap-theme/</link>
       <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
-      <guid>https://hrizwan3.github.io/currency-companion/post/hugo-bootstrap-theme/</guid>
+      <guid>http://localhost:1313/currency-companion/post/hugo-bootstrap-theme/</guid>
       <description>Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.&#xA;Open-source MIT Licensed Hugo Theme, using Bootstrap 5.&#xA;🛡️ Security aware&#xA;Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.&#xA;⚡ Fast by default&#xA;Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.</description>
     </item>
     <item>
       <title>Docs</title>
-      <link>https://hrizwan3.github.io/currency-companion/page/</link>
+      <link>http://localhost:1313/currency-companion/page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hrizwan3.github.io/currency-companion/page/</guid>
+      <guid>http://localhost:1313/currency-companion/page/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts</title>
-      <link>https://hrizwan3.github.io/currency-companion/post/</link>
+      <link>http://localhost:1313/currency-companion/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hrizwan3.github.io/currency-companion/post/</guid>
+      <guid>http://localhost:1313/currency-companion/post/</guid>
       <description></description>
     </item>
   </channel>

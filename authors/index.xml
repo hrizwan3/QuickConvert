@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Currency Companion</title>
-    <link>https://hrizwan3.github.io/currency-companion/authors/</link>
-    <description>Recent content in Authors on Currency Companion</description>
+    <title>Authors on QuickConvert</title>
+    <link>http://localhost:1313/currency-companion/authors/</link>
+    <description>Recent content in Authors on QuickConvert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Currency Companion</copyright>
+    <copyright>QuickConvert</copyright>
     <lastBuildDate>Tue, 14 May 2024 01:02:16 -0400</lastBuildDate>
-    <atom:link href="https://hrizwan3.github.io/currency-companion/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/currency-companion/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bjørn Erik Pedersen</title>
-      <link>https://hrizwan3.github.io/currency-companion/authors/bj%C3%B8rn-erik-pedersen/</link>
+      <link>http://localhost:1313/currency-companion/authors/bj%C3%B8rn-erik-pedersen/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0100</pubDate>
-      <guid>https://hrizwan3.github.io/currency-companion/authors/bj%C3%B8rn-erik-pedersen/</guid>
+      <guid>http://localhost:1313/currency-companion/authors/bj%C3%B8rn-erik-pedersen/</guid>
       <description></description>
     </item>
     <item>
       <title>Mark Otto</title>
-      <link>https://hrizwan3.github.io/currency-companion/authors/mark-otto/</link>
+      <link>http://localhost:1313/currency-companion/authors/mark-otto/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0100</pubDate>
-      <guid>https://hrizwan3.github.io/currency-companion/authors/mark-otto/</guid>
+      <guid>http://localhost:1313/currency-companion/authors/mark-otto/</guid>
       <description></description>
     </item>
     <item>
       <title>Filipe Carneiro</title>
-      <link>https://hrizwan3.github.io/currency-companion/authors/filipe-carneiro/</link>
+      <link>http://localhost:1313/currency-companion/authors/filipe-carneiro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hrizwan3.github.io/currency-companion/authors/filipe-carneiro/</guid>
+      <guid>http://localhost:1313/currency-companion/authors/filipe-carneiro/</guid>
       <description>Filipe Carneiro.</description>
     </item>
   </channel>
