@@ -9787,12 +9787,11 @@ a .feather-github:hover {
 }
 
 .home {
-  --bd-purple: #4c0bce;
-  --bd-violet: #712cf9;
+  --bd-primary: #0D47A1;
+  --bd-secondary: #00A86B;
   --bd-accent: #ffe484;
-  --bd-violet-rgb: 112.520718,44.062154,249.437846;
-  --bd-accent-rgb: 255,228,132;
-  --bd-pink-rgb: 214,51,132;
+  --bd-primary-rgb: 13, 71, 161;
+  --bd-secondary-rgb: 0, 168, 107;
 }
 
 .home .bd-masthead {
@@ -9803,11 +9802,11 @@ a .feather-github:hover {
 .home .btn-bd-primary {
   --bs-btn-font-weight: 600;
   --bs-btn-color: var(--bs-white);
-  --bs-btn-bg: #1976D2;
+  --bs-btn-bg: #03c27ced;
   --bs-btn-border-color: var(--bd-violet);
   --bs-btn-border-radius: .5rem;
   --bs-btn-hover-color: var(--bs-white);
-  --bs-btn-hover-bg: #0D47A1;
+  --bs-btn-hover-bg: #004225;
   --bs-btn-hover-border-color: #6528e0;
   --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
   --bs-btn-active-color: var(--bs-btn-hover-color);
@@ -9819,7 +9818,7 @@ a .feather-github:hover {
   --bd-violet-rgb: 229, 9, 20;
   padding: .75rem 0;
   background-color: transparent;
-  background-image: linear-gradient(to bottom, #1976d2, rgba(25, 118, 210, 0.95));
+  background-image: linear-gradient(to bottom, #00a86b, rgba(0, 168, 107, 0.95));
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15), inset 0 -1px 0 rgba(0, 0, 0, 0.15);
 }
 
