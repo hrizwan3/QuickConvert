@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Index on QuickConvert</title>
-    <link>https://hrizwan3.github.io/currency-converter-landing/tags/index/</link>
+    <link>https://hrizwan3.github.io/QuickConvert/tags/index/</link>
     <description>Recent content in Index on QuickConvert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>QuickConvert</copyright>
-    <atom:link href="https://hrizwan3.github.io/currency-converter-landing/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hrizwan3.github.io/QuickConvert/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docs</title>
-      <link>https://hrizwan3.github.io/currency-converter-landing/page/</link>
+      <link>https://hrizwan3.github.io/QuickConvert/page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hrizwan3.github.io/currency-converter-landing/page/</guid>
+      <guid>https://hrizwan3.github.io/QuickConvert/page/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts</title>
-      <link>https://hrizwan3.github.io/currency-converter-landing/post/</link>
+      <link>https://hrizwan3.github.io/QuickConvert/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hrizwan3.github.io/currency-converter-landing/post/</guid>
+      <guid>https://hrizwan3.github.io/QuickConvert/post/</guid>
       <description></description>
     </item>
   </channel>

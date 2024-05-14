@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on QuickConvert</title>
-    <link>https://hrizwan3.github.io/currency-converter-landing/categories/</link>
+    <link>https://hrizwan3.github.io/QuickConvert/categories/</link>
     <description>Recent content in Categories on QuickConvert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>QuickConvert</copyright>
     <lastBuildDate>Tue, 14 May 2024 01:02:16 -0400</lastBuildDate>
-    <atom:link href="https://hrizwan3.github.io/currency-converter-landing/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hrizwan3.github.io/QuickConvert/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Release Notes</title>
-      <link>https://hrizwan3.github.io/currency-converter-landing/categories/hugo-release-notes/</link>
+      <link>https://hrizwan3.github.io/QuickConvert/categories/hugo-release-notes/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0100</pubDate>
-      <guid>https://hrizwan3.github.io/currency-converter-landing/categories/hugo-release-notes/</guid>
+      <guid>https://hrizwan3.github.io/QuickConvert/categories/hugo-release-notes/</guid>
       <description></description>
     </item>
     <item>
       <title>The Bootstrap Blog</title>
-      <link>https://hrizwan3.github.io/currency-converter-landing/categories/the-bootstrap-blog/</link>
+      <link>https://hrizwan3.github.io/QuickConvert/categories/the-bootstrap-blog/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0100</pubDate>
-      <guid>https://hrizwan3.github.io/currency-converter-landing/categories/the-bootstrap-blog/</guid>
+      <guid>https://hrizwan3.github.io/QuickConvert/categories/the-bootstrap-blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo Bootstrap Theme</title>
-      <link>https://hrizwan3.github.io/currency-converter-landing/categories/hugo-bootstrap-theme/</link>
+      <link>https://hrizwan3.github.io/QuickConvert/categories/hugo-bootstrap-theme/</link>
       <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
-      <guid>https://hrizwan3.github.io/currency-converter-landing/categories/hugo-bootstrap-theme/</guid>
+      <guid>https://hrizwan3.github.io/QuickConvert/categories/hugo-bootstrap-theme/</guid>
       <description></description>
     </item>
   </channel>
