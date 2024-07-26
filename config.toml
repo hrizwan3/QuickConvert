@@ -1,6 +1,6 @@
 baseURL = 'https://hrizwan.tech/QuickConvert/'
 title = "QuickConvert"
-author = "QuickConvert"
+author = "QuickConvert" 
 copyright = "QuickConvert"
 
 timeZone = 'Europe/London'
